@@ -18,6 +18,11 @@
   .hero-section-content h1 {
     font-size: 2rem;
   }
+
+  .brands {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
 }
 
 /* For Medium Types Screens */
